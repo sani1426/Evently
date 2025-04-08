@@ -20,7 +20,7 @@ const Navbar = () => {
           </Link>
           <SignedIn>
             <nav className="md:flex-between hidden w-full max-w-xs">
-               <NavItems />
+              <NavItems />
             </nav>
           </SignedIn>
           <div className="flex w-32 justify-end gap-3">
